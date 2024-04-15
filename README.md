@@ -23,13 +23,13 @@ This repository is a centralized hub for Class 11 students to access high-qualit
 
 Explore the repository by diving into specific chapters:
 
--  [Chapter 1: Introduction to English Literature](./chapters/chapter-1.md)
--  [Chapter 2: Grammar and Syntax](./chapters/chapter-2.md)
--  [Chapter 3: Literary Devices and Techniques](./chapters/chapter-3.md)
--  [Chapter 4: Writing Skills and Composition](./chapters/chapter-4.md)
--  [Chapter 5: Poetry Analysis](./chapters/chapter-5.md)
--  [Chapter 6: Short Stories and Prose](./chapters/chapter-6.md)
--  [Chapter 7: English Literature Classics](./chapters/chapter-7.md)
+- [Chapter 1: Introduction to English Literature](./chapters/chapter-1.md)
+- [Chapter 2: Grammar and Syntax](./chapters/chapter-2.md)
+- [Chapter 3: Literary Devices and Techniques](./chapters/chapter-3.md)
+- [Chapter 4: Writing Skills and Composition](./chapters/chapter-4.md)
+- [Chapter 5: Poetry Analysis](./chapters/chapter-5.md)
+- [Chapter 6: Short Stories and Prose](./chapters/chapter-6.md)
+- [Chapter 7: English Literature Classics](./chapters/chapter-7.md)
 
 Feel free to explore, learn, and contribute to the content.
 
@@ -37,10 +37,10 @@ Feel free to explore, learn, and contribute to the content.
 
 Practice your English skills with exercises:
 
--  [Exercise 1: Grammar Practice](./exercises/exercise-1.md)
--  [Exercise 2: Creative Writing](./exercises/exercise-2.md)
--  [Exercise 3: Poetry Interpretation](./exercises/exercise-3.md)
--  [Exercise 4: Literary Analysis](./exercises/exercise-4.md)
+- [Exercise 1: Grammar Practice](./exercises/exercise-1.md)
+- [Exercise 2: Creative Writing](./exercises/exercise-2.md)
+- [Exercise 3: Poetry Interpretation](./exercises/exercise-3.md)
+- [Exercise 4: Literary Analysis](./exercises/exercise-4.md)
 
 ## Additional Resources
 
@@ -70,8 +70,8 @@ Please review and adhere to our [Code of Conduct](./CODE_OF_CONDUCT.md) to ensur
 
 For any questions, feedback, or collaboration inquiries, feel free to reach out:
 
--  Email: chaudharyradip678@gmail.com
--  Twitter: [@pradipchaudhary](https://www.linkedin.com/pradipchaudhary)
--  Github: [@pradipchaudhary](https://github.com/pradipchaudhary)
+- Email: info@plus2note.com
+- Twitter: [@plus2note](https://www.twitter.com/plus2note)
+- Github: [@plus2note](https://github.com/plus2note)
 
 Happy learning and best of luck with your Class 11 English studies!
